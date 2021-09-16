@@ -1,0 +1,21 @@
+body{
+    background-image: url("car-1631810578656-5943.jpg");
+    border-image-width: 100%;
+
+}
+h1{
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    color: white;
+    text-align: left;
+    
+}
+a{
+    color: antiquewhite;
+    text-align: left;
+}
+#p1{
+    text-align: end;
+}
